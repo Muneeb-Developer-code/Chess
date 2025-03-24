@@ -1,0 +1,18 @@
+.checkerboard {
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .black {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+  }
+  .red {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+  }
